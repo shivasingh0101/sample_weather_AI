@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv()
 
+
 # --- 1. SETUP ---
 st.set_page_config(page_title="Gemini Weather Agent", page_icon="🌤️")
 st.title("🌤️ Bondili's AI Weather Agent")
